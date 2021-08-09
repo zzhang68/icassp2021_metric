@@ -5,6 +5,8 @@ The dataset (e.g.,human MOS scores for COSINE and VOiCES) has not been released 
 Note:
 The current model takes in fixed 4s audio/speech as input.
 
+Paper: https://ieeexplore.ieee.org/document/9414182
+
 Citation:
 
 @inproceedings{zhang2021end,
