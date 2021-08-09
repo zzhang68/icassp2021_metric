@@ -9,11 +9,11 @@ Paper: https://ieeexplore.ieee.org/document/9414182
 
 Citation:
 
-@inproceedings{zhang2021end,
-  title={An End-To-End Non-Intrusive Model for Subjective and Objective Real-World Speech Assessment Using a Multi-Task Framework},
-  author={Zhang, Zhuohuang and Vyas, Piyush and Dong, Xuan and Williamson, Donald S},
-  booktitle={ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
-  pages={316--320},
-  year={2021},
-  organization={IEEE}
+@inproceedings{zhang2021end,<br />
+  title={An End-To-End Non-Intrusive Model for Subjective and Objective Real-World Speech Assessment Using a Multi-Task Framework},<br />
+  author={Zhang, Zhuohuang and Vyas, Piyush and Dong, Xuan and Williamson, Donald S},<br />
+  booktitle={ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},<br />
+  pages={316--320},<br />
+  year={2021},<br />
+  organization={IEEE}<br />
 }
