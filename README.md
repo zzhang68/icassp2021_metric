@@ -1,13 +1,13 @@
 Companion code for the paper "An End-To-End Non-Intrusive Model for Subjective and Objective Real-World Speech Assessment Using a Multi-Task Framework", ICASSP 2021.
 
-The dataset (e.g.,human MOS scores for COSINE and VOiCES) is available [here](https://drive.google.com/drive/folders/1wIgOqnKA1U-wZQrU8eb67yQyRVOK3SnZ).
+The dataset (e.g., human MOS scores for COSINE and VOiCES) is available [here](https://drive.google.com/drive/folders/1wIgOqnKA1U-wZQrU8eb67yQyRVOK3SnZ).
 
 Note:
 The current model takes in fixed 4s audio/speech as input, padding/truncation is needed.
 
 Paper: https://ieeexplore.ieee.org/document/9414182
 
-Citation:
+If you use the code in this repo, please cite the following paper:
 
       @inproceedings{zhang2021end,
         title={An End-To-End Non-Intrusive Model for Subjective and Objective Real-World Speech Assessment Using a Multi-Task Framework},
@@ -17,3 +17,13 @@ Citation:
         year={2021},
         organization={IEEE}
       }
+      
+If you use the dataset, please cite the following paper:
+
+    @article{dong2020pyramid,
+      title={{A pyramid recurrent network for predicting crowdsourced speech-quality ratings of real-world signals}},
+      author={Dong, Xuan and Williamson, Donald S},
+      booktitle={Interspeech}，
+      pages={4631--4635},
+      year={2020}
+    }
