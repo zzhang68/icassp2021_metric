@@ -4,6 +4,7 @@ The dataset (e.g., human MOS scores for COSINE and VOiCES) is available [here](h
 
 Note:
 The current model takes in fixed 4s audio/speech as input, padding/truncation is needed.
+Two pretrained models (on COSINE and VOiCES datasets, respectively) are provided. For different datasets, we recommend to retrain the model. 
 
 Paper: https://ieeexplore.ieee.org/document/9414182
 
